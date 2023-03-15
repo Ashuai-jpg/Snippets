@@ -1,4 +1,6 @@
-      "Vew Template": {
+# Vue SFC vscode snippets
+
+       "Vew Template": {
           "prefix": "vue",
           "body": [
             "<template>",
