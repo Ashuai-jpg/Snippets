@@ -16,5 +16,5 @@
 
             "</style>"
           ],
-          "description": "SFC implement"
+          "description": "SFC fast implement snippets"
         }
